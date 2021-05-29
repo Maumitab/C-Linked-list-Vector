@@ -1,0 +1,10 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+  int n;
+  cout<<"enter";
+  cin>>n;
+  cout<<"number"<<n;
+  return 0;
+}
